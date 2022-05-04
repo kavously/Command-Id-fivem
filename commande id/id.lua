@@ -1,5 +1,5 @@
 
--- bc1q2g8xetx03edchze96xza4h30u9d6 : its my btc adress :)
+-- bc1q2g8xetx03edchze96xza4h30u9d6g33kapqfla : its my btc adress :)
 
 local function sendNotification(message)
     SetNotificationTextEntry("STRING")
