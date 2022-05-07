@@ -9,7 +9,7 @@ end
 
 RegisterCommand("id", function (_src , rawCommand)
     local source = _src
-    local bc1q2g8xetx03edchze96xza4h30u9d6g33kapqfla = GetPlayerServerId(PlayerPedId())
+    local bc1q2g8xetx03edchze96xza4h30u9d6g33kapqfla = GetPlayerServerId(PlayerId())
     
     sendNotification("Votre Id : ~b~"..bc1q2g8xetx03edchze96xza4h30u9d6g33kapqfla.. " ")
 end, false)
